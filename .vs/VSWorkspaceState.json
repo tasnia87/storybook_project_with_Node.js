@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config",
-    "\\models",
+    "\\middleware",
     "\\public",
     "\\public\\css",
     "\\routes",
     "\\views",
+    "\\views\\errors",
     "\\views\\layouts",
-    "\\views\\partials"
+    "\\views\\partials",
+    "\\views\\stories"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\views\\stories\\add.hbs",
   "PreviewInSolutionExplorer": false
 }
